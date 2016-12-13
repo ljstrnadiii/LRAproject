@@ -2,8 +2,8 @@
 Final Project for Linear Regression Analysis: considers temperature reconstruction model based on proxy data
 
 ## R Files:
--'Model.R': performs data summary, considers collinearity, and model selection
--'Diagnostics.R': performs model diagnostics and compares two models: with and without time variable when extrapolating.
+- 'Model.R': performs data summary, considers collinearity, and model selection
+- 'Diagnostics.R': performs model diagnostics and compares two models: with and without time variable when extrapolating.
 
 ## Data:
 - The data includes variables:
